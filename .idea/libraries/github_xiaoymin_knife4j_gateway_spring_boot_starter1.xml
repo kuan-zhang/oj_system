@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="github.xiaoymin.knife4j.gateway.spring.boot.starter1" type="repository">
+    <properties maven-id="com.github.xiaoymin:knife4j-gateway-spring-boot-starter:4.4.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../yuoj-backend-gateway/lib/knife4j-gateway-spring-boot-starter-4.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../yuoj-backend-gateway/lib/knife4j-openapi3-ui-4.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

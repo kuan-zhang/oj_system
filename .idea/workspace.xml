@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bc4ea62-9cf2-4f2c-83ba-63e9d9633582" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="zhangkuan" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2hKBoAzr58NuyyI6su1NCCUi0oY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path&quot;: &quot;D:\\oj_system\\yuoj-backend-gateway\\lib&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/oj_system/yuoj-backend-microservice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.097751714&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.27982646&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;32015ee3c5ae6a2d4794aba3b1ddc9ec&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\oj_system\yuoj-backend-microservice\yuoj-backend-common\src\main\java\com\yupi\yuojbackendcommon" />
+      <recent name="D:\oj_system\yuoj-backend-microservice\yuoj-backend-judge-service\src\main\java\com\yupi\yuojbackendjudgeservice" />
+      <recent name="D:\oj_system\yuoj-backend-microservice\yuoj-backend-question-service\src\main\java\com\yupi\yuojbackendquestionservice\" />
+      <recent name="D:\oj_system\yuoj-backend-microservice\yuoj-backend-user-service\src\main\java\com\yupi\yuojbackenduserservice" />
+      <recent name="D:\oj_system\yuoj-backend-microservice\yuoj-backend-question-service\src\main\java\com\yupi\yuojbackendquestionservice\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yupi.yuojbackenduserservice.controller" />
+      <recent name="com.yupi.yuojbackendjudgeservice.controller.inner" />
+      <recent name="com.yupi.yuojbackendquestionservice.controller.inner" />
+      <recent name="com.yupi.yuojbackendserviceclient.service" />
+      <recent name="com.yupi.yuojbackendjudgeservice.service.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.com.yupi.yuojbackendjudgeservice.rabbitmq.InitRabbitMq">
+    <configuration name="com.yupi.yuojbackendjudgeservice.rabbitmq.InitRabbitMq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yupi.yuojbackendjudgeservice.rabbitmq.InitRabbitMq" />
+      <module name="yuoj-backend-judge-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuojbackendjudgeservice.rabbitmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuojBackendGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.yuojbackendgateway.YuojBackendGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuojbackendgateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuojBackendJudgeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend-judge-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.yuojbackendjudgeservice.YuojBackendJudgeServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuojbackendjudgeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuojBackendQuestionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend-question-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.yuojbackendquestionservice.YuojBackendQuestionServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuojbackendquestionservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuojBackendUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="yuoj-backend-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.yuojbackenduserservice.YuojBackendUserServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yupi.yuojbackenduserservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.YuojBackendUserServiceApplication" />
+        <item itemvalue="Spring Boot.YuojBackendQuestionServiceApplication" />
+        <item itemvalue="Spring Boot.YuojBackendJudgeServiceApplication" />
+        <item itemvalue="Spring Boot.YuojBackendGatewayApplication" />
+        <item itemvalue="应用程序.com.yupi.yuojbackendjudgeservice.rabbitmq.InitRabbitMq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7bc4ea62-9cf2-4f2c-83ba-63e9d9633582" name="变更" comment="" />
+      <created>1717333065296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717333065296</updated>
+      <workItem from="1717333066889" duration="20316000" />
+      <workItem from="1717413608275" duration="298000" />
+      <workItem from="1717413929614" duration="3715000" />
+      <workItem from="1717417726086" duration="11131000" />
+      <workItem from="1717484415682" duration="677000" />
+      <workItem from="1717485136850" duration="243000" />
+      <workItem from="1717485402882" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
